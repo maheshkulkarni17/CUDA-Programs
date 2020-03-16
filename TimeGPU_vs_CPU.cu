@@ -7,7 +7,7 @@
 #define WARP_SIZE 32 // # of threads that are executed together (constant valid on most hardware)
 
 
-
+#change1
 // Allow timing of functions
 clock_t start,end;
 
