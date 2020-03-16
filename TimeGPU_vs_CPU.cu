@@ -8,6 +8,7 @@
 
 
 #change1
+#change2
 // Allow timing of functions
 clock_t start,end;
 
